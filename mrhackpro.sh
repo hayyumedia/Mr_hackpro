@@ -22,7 +22,7 @@ cowsay -f eyes "Mr_HackPro" | lolcat
 figlet -f slant "Mr_HackPro" | lolcat
 echo "    <=====================[]====================>" | lolcat
 echo "    <=====[       Tools By Mr_HackPro       ]=====>" | lolcat
-echo  "    <=====[  Concact Me : +6285864875536  ]=====>" | lolcat
+echo  "    <=====[  Concact Me : mrhackpro.blogspot.com  ]=====>" | lolcat
 echo "    <=====================[]====================>" | lolcat
 
 sleep 1
